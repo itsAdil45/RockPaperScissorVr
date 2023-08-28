@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: be5cee944a55ef64f89e87a0ecaff204
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005black
+    second: {fileID: 2100000, guid: da023190be17480408bd66bbcfc8584e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005bushbark
+    second: {fileID: 2100000, guid: 0b233c34ab7ad084099a532f34686600, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005enviroment
+    second: {fileID: 2100000, guid: 1591462906d567647b3ed9b3a35d8551, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005flowerpetalin
+    second: {fileID: 2100000, guid: 779206c86ed973046b1567c59478a5d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005framemetal
+    second: {fileID: 2100000, guid: a3212b0d614efe04184f0e6932b31903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005girlandblack
+    second: {fileID: 2100000, guid: 7822c0c8b001eb6419aae7bafdff1484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005girlandmetal
+    second: {fileID: 2100000, guid: 8f83214e8b841b147ae7b745c6044190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005girlandyellow
+    second: {fileID: 2100000, guid: 9cb97abe1832b144d80a4ba779c906a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005glass
+    second: {fileID: 2100000, guid: 96f7ae7cddcf22a469ea21f9f9087e50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005glassWater
+    second: {fileID: 2100000, guid: ee53e0fbad6efa44db7adf909ee97f62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005grass
+    second: {fileID: 2100000, guid: 76cc05050a8dc1c409d444c0654589e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005hammockcloth2s
+    second: {fileID: 2100000, guid: 4155a51f5eddadc458d7a9125f177066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005hammockmetal
+    second: {fileID: 2100000, guid: 36fc43ca205a7e44698991f373f8565d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005lantern01
+    second: {fileID: 2100000, guid: 872df4b48ac9c594487a633d43f79409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005patiosetpillow1
+    second: {fileID: 2100000, guid: 0a9483ef66e6ec04993a546f94640343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005patiosetpillow2
+    second: {fileID: 2100000, guid: bd2839e2dda2d224cb5927dbe112a27d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005patiosetseat
+    second: {fileID: 2100000, guid: b0e1f5ab827b2cf409ffde42aa1a552b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005pot
+    second: {fileID: 2100000, guid: 8f6f761bc269813469065a12803ae60e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005potflower02
+    second: {fileID: 2100000, guid: 383adcd1ca572e34796b220a72071a37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005potflower03
+    second: {fileID: 2100000, guid: 61388b0a11256a34a83e01ff148640c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005potflower04
+    second: {fileID: 2100000, guid: 66bc375cf8f1e56419d598e013eaa7bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005potflower05
+    second: {fileID: 2100000, guid: abdbf21aa54cd9544a85b6c59b74986b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005potflower10
+    second: {fileID: 2100000, guid: 37712a07cfaa84d45acb604553d67c41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005potplant01
+    second: {fileID: 2100000, guid: 244657405096e474fbabcf864faaa803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005potplant02
+    second: {fileID: 2100000, guid: 36b67b4cc9b9e0a44ad9e70e5c85f317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005rope
+    second: {fileID: 2100000, guid: c08909a28b83a8443a5009f38ff2c897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005treeAeafs
+    second: {fileID: 2100000, guid: 59a64f0a3cf33e64f864dd3b927ea350, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005treeAtrunk
+    second: {fileID: 2100000, guid: a4cea3dea960eb244a57119bd11f80a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005treeBleafs
+    second: {fileID: 2100000, guid: 2f0cc03ccda1566428afcfc01e6f7606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005treeBtrunk
+    second: {fileID: 2100000, guid: ad9fd7bbdb9c8f44791717f1871629d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005treeCleafs
+    second: {fileID: 2100000, guid: 467f0f1271f892e47801c9bafdb7810f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005treeCtrunk
+    second: {fileID: 2100000, guid: 3c95ec4f143fed447b7b698c09e0e045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005waterset
+    second: {fileID: 2100000, guid: bd2392e89789d434fbe65ad00d1fb058, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005waterset2
+    second: {fileID: 2100000, guid: 75da3f2a6c2e3c541af3dd40c81be92c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005wood1
+    second: {fileID: 2100000, guid: 30f123a28ae09734bbdac7490534baaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005wood3
+    second: {fileID: 2100000, guid: 87d7acc3521adc84ea5b7e429f5f7734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212005wood4
+    second: {fileID: 2100000, guid: e223f28d79124f44f9611eedcfc049f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_bush_leaf_2s
+    second: {fileID: 2100000, guid: 51960142b67a835408b83316f8e8a753, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ColorfulPlantsCycles
+    second: {fileID: 2100000, guid: 027321923e56d0642b64e242242369fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass Dirt Clovers (Cycles)
+    second: {fileID: 2100000, guid: c56da574ae2069d408a1af4824a788d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 0ee5e4471967ce24cba4edf8a21e690c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: 8c9701f65171bb04cbc54ae723bf46d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bluecolor
+    second: {fileID: 2100000, guid: b1a04f0dd921d9248a6864626f4a4d5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drawingcolor
+    second: {fileID: 2100000, guid: d2baed672daf409488fac6dfb78c9540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: orangcolor
+    second: {fileID: 2100000, guid: 1c8c044f68a4bd34c9d73a3fc79e4b8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: redcolor
+    second: {fileID: 2100000, guid: dc0ec29ef06ebfc4086d997144e00c89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: whitecolor
+    second: {fileID: 2100000, guid: 0ed16cd5f47e9734f96990a30f4156e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yellowcolor
+    second: {fileID: 2100000, guid: 3e68a6202e89559448a1423dc2d93b16, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_004_lantern_01_Diffuse
+    second: {fileID: 2800000, guid: 9c2f06857ac41c245816c17694ddaa92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_025_bark_diff
+    second: {fileID: 2800000, guid: 4c6ce9ad8d099cf4f91bdfb488d90839, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_enviroment_color
+    second: {fileID: 2800000, guid: 1a76454f9087d43439a47e75f14fb9e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_enviroment_opacity
+    second: {fileID: 2800000, guid: 2e7492f061b1cdd428fba6ec67df3c64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_flower_2_leaf_diff3
+    second: {fileID: 2800000, guid: 4ed6a7993b68113488eb683344574127, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_flower_2_leaf_diff4
+    second: {fileID: 2800000, guid: c7ddc2f37c211314494644f3148a008f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_flower_2_leaf_opacity
+    second: {fileID: 2800000, guid: 50f21f8b26e40e74384b62d2ba1bcbef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_flower_leaf_diff
+    second: {fileID: 2800000, guid: 487fdd1024b42034c8d7bbf32a42ae47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_flower_leaf_diff1
+    second: {fileID: 2800000, guid: ef486c9a2a44ab94aa88dbbd46560dbd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_flower_leaf_diff4
+    second: {fileID: 2800000, guid: 9b815e9cf8058ca468eea963de8756ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_flower_petal_opacity
+    second: {fileID: 2800000, guid: ae14a4cec2a700c45891bbbcda1accfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_flower_petal_opacity2
+    second: {fileID: 2800000, guid: c4ad0d6bb5acd0a43adc71c96fb74104, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_flower_petal_transluc
+    second: {fileID: 2800000, guid: 6869a4f0b1f0984468b2f9e1bac3dc64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_flower_petal_transluc2
+    second: {fileID: 2800000, guid: fe1eb6a0c3397f249a660652a229a202, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_flower_stem_diff1
+    second: {fileID: 2800000, guid: ac93de32fb9bf4a44932cbdac6fb734a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_grass_alpha
+    second: {fileID: 2800000, guid: 6484eb5f51fd2134b8492c10bb87d879, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_grass_diff_01
+    second: {fileID: 2800000, guid: 4635585bd34503543bfeb8a875a3f2a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_hammock_cloth
+    second: {fileID: 2800000, guid: 005387d6e40bdaa458f540896fed6daa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_patio_set_pillow1_Diffuse
+    second: {fileID: 2800000, guid: f14cd4ecaa74cd94bad7adc24b3f4256, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_patio_set_pillow2_Diffuse
+    second: {fileID: 2800000, guid: d26138dedeacbe6408e38592239221bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_patio_set_seat_Diffuse
+    second: {fileID: 2800000, guid: b12e97435cae08342aa0f38040533649, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_pot_Diffuse
+    second: {fileID: 2800000, guid: 3607afc0962025b408c765469f824742, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_rope
+    second: {fileID: 2800000, guid: cf1adf48106ad7949a0b4174d0fe2432, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_tree_A_leaf_dffuse
+    second: {fileID: 2800000, guid: 03bf2561ddb65b24d90ded26beb44ac1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_tree_A_trunk_diff
+    second: {fileID: 2800000, guid: f1b04cf56b83d12429d627b478432fb0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_tree_B_leaf_alpha
+    second: {fileID: 2800000, guid: 018721f6498cf644daa05e3730b80cdb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_tree_B_leaf_diff
+    second: {fileID: 2800000, guid: 9eeb5d68ec604114fb67e296b3ec3945, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_tree_B_trunk_diff
+    second: {fileID: 2800000, guid: a87ca3e1749880f44928502c9af7210d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_tree_C_Trunk_seed_01
+    second: {fileID: 2800000, guid: 99459db7c3fe00147974c56c73534c25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_tree_C_leafs_alpha
+    second: {fileID: 2800000, guid: f394e6dbf98ff094aabca53109d5cd2d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_tree_C_leafs_diff
+    second: {fileID: 2800000, guid: c7cb9646a1966f047bf01f66ab02053b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_water_set_2_Diffuse
+    second: {fileID: 2800000, guid: 470af08f0cf73f9438313759f1d06724, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_water_set_Diffuse
+    second: {fileID: 2800000, guid: efd0d520f1aef154fb4dba50c1664c51, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_wood1_Diffuse copy2
+    second: {fileID: 2800000, guid: 66674a946b8c4944389edcbabe72e4c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_wood3_Diffuse
+    second: {fileID: 2800000, guid: 95d1ad6420590e747b0b3116d8d55bc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: AM212_005_wood_4
+    second: {fileID: 2800000, guid: 1f5f40444cf8bc244990cfc845abc326, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fish
+    second: {fileID: 2800000, guid: 4c25742af2ac13440af4bb0a04c52ada, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
