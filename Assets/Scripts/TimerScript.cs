@@ -42,6 +42,8 @@ public class TimerScript : MonoBehaviour
     public void StartTimer()
     {
         if(isButtonPressed && !turnPlaceDetector.activeSelf && !placeHolder.activeSelf){
+        poseManager.instance.PlayerChoice=-1;
+        poseManager.instance.isPlayerSelectPose=false;
         turntimer = 0.9f;
         errorMsg.SetActive(false);
         isPlayerReady = true;

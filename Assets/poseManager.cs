@@ -69,13 +69,6 @@ public class poseManager : MonoBehaviour
             if(newtxt=="ThumbsUpPose" && allowTimerToStart){
                                   //Reseting Stats
                 isPlayerThumbsUpInField = true;
-                RockPaperScissorsAgent.rockPaperScissorsAgentInstance.playerScore.text="0";
-                RockPaperScissorsAgent.rockPaperScissorsAgentInstance.Player_Choice_text.text="";
-                RockPaperScissorsAgent.rockPaperScissorsAgentInstance.AI_Score.text="0";
-                RockPaperScissorsAgent.rockPaperScissorsAgentInstance.AI_Choice_text.text="";
-                RockPaperScissorsAgent.rockPaperScissorsAgentInstance.aiscore=0;
-                RockPaperScissorsAgent.rockPaperScissorsAgentInstance.playerscore=0;
-                RockPaperScissorsAgent.rockPaperScissorsAgentInstance.Tie.text="";
                 ////////////////////////////////////////////////////////////////////
                 isPlayerinField = true;
                 timerText.text="";

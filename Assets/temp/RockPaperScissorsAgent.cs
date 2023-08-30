@@ -36,7 +36,6 @@ public class RockPaperScissorsAgent : Agent
 
 
 
-
     }
 
     public override void CollectObservations(VectorSensor sensor)
@@ -49,7 +48,6 @@ public class RockPaperScissorsAgent : Agent
 
     public override void OnActionReceived(ActionBuffers actions)
     {
-
     if(TimerScript.instance.isPlayerReady && poseManager.instance.isPlayerMadeChoice){
 
         Tie.text="";

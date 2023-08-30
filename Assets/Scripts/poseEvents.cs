@@ -15,13 +15,14 @@ public class poseEvents : MonoBehaviour
     void Update()
     { 
         if(poseManager.instance.isPlayerSelectPose ){
+            print("playerSelectedPose");
          gameObject.SetActive(false);
          poseManager.instance.isPlayerSelectPose=false;
         }
         if(gameObject.activeSelf){
             TimerScript.instance.turntimer -= Time.deltaTime;
             if (TimerScript.instance.turntimer <= 0)
-            {
+            {    print("timeEnded");
                 m_Animator.SetBool("handMovement", false);
                 m_Animator.SetBool("paper", false);
                 m_Animator.SetBool("rock", false);
